@@ -1,4 +1,4 @@
-
+//ALDO
 public class Inheritance {
 
     String warna;
