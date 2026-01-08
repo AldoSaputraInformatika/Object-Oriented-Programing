@@ -1,4 +1,4 @@
-
+//Membuat Class, Field, dan object.  
 class ClassAndObject { //class
 
     String namapendek;
