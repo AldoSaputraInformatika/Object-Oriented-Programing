@@ -1,5 +1,5 @@
 //Class Utama (abstract)
-
+// Day17
 package AbstractMethod;
 
 public abstract class Animal {
