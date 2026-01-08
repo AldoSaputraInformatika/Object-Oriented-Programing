@@ -1,4 +1,6 @@
 //Class Utama
+//Day12
+
 package TipeCheckDanCasts;
 
 class ClassUtama {
