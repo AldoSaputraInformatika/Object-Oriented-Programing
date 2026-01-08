@@ -1,4 +1,4 @@
-//Membuat Class, Field, dan object.  
+//Membuat Class, Field, dan object.  Day01
 class ClassAndObject { //class
 
     String namapendek;
