@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Day02
 
 class OOP2 {
     int panjang;
